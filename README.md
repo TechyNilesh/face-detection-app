@@ -1,5 +1,14 @@
-# face_detection_app
+# Face Detection App
 + Streamlit App with OpenCV
+
+## Screenshot
+![Spam Message Detector App Screenshot](https://raw.githubusercontent.com/TechyNilesh/face-detection-app/master/screencapture-face-detection-apps.png "Spam Message Detector App Screenshot")
+
+## Live WebApp Link'
+https://face-detection-apps.herokuapp.com/
+
+
+### Please do ⭐ the repository, if it helped you in anyway.
 
 ### How to Deploy on Heroku
 + To deploy on heroku you will need the basic 3 requirements and a new requirement for the OpenCV
